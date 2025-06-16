@@ -30,7 +30,7 @@
 
 - **开箱即用部署** - 一键 Fork 即可部署，简化部署流程和技术门槛
 
-> GitHub Pages 自带的设置页面对大多数人更方便, 配置一下，保存一个网页链接即可，放手机浏览器里也随时可看， 比如我这里[https://sansan0.github.io/TrendRadar/](https://sansan0.github.io/TrendRadar/)，该链接每 50 分钟 更新一次
+> GitHub Pages 自带的设置页面对大多数人更方便, 配置一下，保存一个网页链接即可，放手机浏览器里也随时可看， 比如我这里[https://pzb568.github.io/TrendRadar/](https://pzb568.github.io/TrendRadar/)，该链接每 50 分钟 更新一次
 
 ## 更新日志
 
