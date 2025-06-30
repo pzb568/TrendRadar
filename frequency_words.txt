@@ -12,14 +12,6 @@ HarmonyOS
 宇树
 王兴兴
 
-哪吒
-饺子
-!车
-!餐
-
-流浪地球
-郭帆
-三体
 刘慈欣
 
 马斯克
@@ -73,10 +65,10 @@ ai
 宇宙
 飞船
 
-安卓
 Android16
 window
 linux
+ColorOS
 
 A股
 沪深股市
