@@ -29,7 +29,6 @@ AMD
 谷歌
 google
 gemini
-deepmind
 
 chatgpt
 openai
@@ -68,7 +67,7 @@ ai
 Android16
 window
 linux
-ColorOS
+ColorOS16
 
 A股
 沪深股市
