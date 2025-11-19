@@ -76,6 +76,7 @@ Anthropic
 iphone
 ipad
 mac
+android
 ios
 
 ai
