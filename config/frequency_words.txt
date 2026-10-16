@@ -256,3 +256,26 @@
 
 # 产业政策
 生产力
+
+#DIY
+英伟达
+NVIDIA
+AMD
+瑞芯微
+RK3688
+RK3588
+此芯科技
+此芯 P1
+RK3588
+香橙派
+Orange Pi
+ESP32
+Arduino
+智能家居
+软路由
+Docker
+NAS
+无线电通讯
+
+
+
