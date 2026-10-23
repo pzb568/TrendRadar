@@ -257,25 +257,17 @@
 # 产业政策
 生产力
 
-#DIY
-英伟达
-NVIDIA
-AMD
-瑞芯微
-RK3688
-RK3588
-此芯科技
-此芯 P1
-RK3588
-香橙派
-Orange Pi
-ESP32
-Arduino
+[开发板/芯片]
+/瑞芯微|\bRockchip\b|\bRK3588\b|\bRK3688\b/ => 瑞芯微
+此芯
+/香橙派|\bOrange Pi\b/i
+/\bESP32\b|\bArduino\b|树莓派|\bRaspberry Pi\b/i
+@10
+
+[折腾/DIY]
 智能家居
 软路由
-Docker
-NAS
-无线电通讯
-
-
-
+/\bNAS\b/
+/\bDocker\b/i
+无线电
+@10
